@@ -1,0 +1,1 @@
+SELECT * FROM employee WHERE First_Name = 'Steve' AND salary > 75000;
